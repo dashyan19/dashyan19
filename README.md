@@ -1,4 +1,4 @@
-<h1 align="center"💚 Привет, я Даша! 💚</h1>
+<h1 align="center"🚀 Привет, я Даша! 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
