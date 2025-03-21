@@ -40,3 +40,5 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" height="50"> <img src="https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=C&logoColor=000000"/>
 
 ![Banner](https://via.placeholder.com/1200x300)
+
+![График](https://quickchart.io/chart?c={type:'bar',data:{labels:['C++','Python','JavaScript'],datasets:[{label:'Мои навыки',data:[80,70,60]}]}})
