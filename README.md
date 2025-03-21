@@ -8,6 +8,25 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </div>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+| Навык       | Уровень       | Значок                     |
+|-------------|---------------|----------------------------|
+| Java        | Продвинутый   | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| HTML        | Средний       | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS         | Средний       | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+<div style="background: #f4f4f4; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+  <span style="font-weight: bold;">Java</span>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ваш-username)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Привет, меня зовут [Ваше имя]! 👋
 
 🚀 Я начинающий веб-разработчик, специализирующийся на серверной части (Java) и фронтенде (HTML, CSS, JavaScript).
